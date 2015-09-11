@@ -1,0 +1,30 @@
+{
+  "name": "foxtail-hello-world",
+  "version": "0.0.1",
+  "description": "A foxtail plugin that reponse to 'hello'",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "foxtail": "^0.1.0",
+    "power-assert": "^1.0.0",
+    "sinon": "^1.16.1",
+    "babel": "^5.8.23",
+    "espower-babel": "^3.3.0",
+    "mocha": "^2.3.0"
+  },
+  "scripts": {
+    "build": "babel src -d lib/",
+    "watch": "babel src -d lib/ -w",
+    "test": "mocha"
+  },
+  "keywords": [
+    "foxtail",
+    "twitter"
+  ],
+  "author": "akameco",
+  "license": "MIT"
+}
