@@ -17,9 +17,6 @@ And load plugin in index.js
 fox.loadNpmScript(Path.resolve(__dirname, 'fox.json'))
 ```
 
-## Example
-
-
 ## Development
 
 ```
