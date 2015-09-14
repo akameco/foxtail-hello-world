@@ -1,6 +1,6 @@
 {
   "name": "foxtail-hello-world",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A foxtail plugin that reponse to 'hello'",
   "main": "index.js",
   "directories": {
