@@ -1,5 +1,7 @@
 # foxtail-hello-world
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/foxtail-hello-world.svg)](https://greenkeeper.io/)
+
 ```
 npm install --save foxtail-hello-world
 ```
